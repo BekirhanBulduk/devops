@@ -3,4 +3,4 @@
 DevOps Eğitim Repositorysi
 
 Wallpaper
-![image]{nextcloud.png}
+![Nextcloud Logo](nextcloud.png)
